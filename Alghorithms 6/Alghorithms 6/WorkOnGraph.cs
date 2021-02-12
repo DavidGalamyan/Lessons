@@ -11,7 +11,7 @@ namespace Alghorithms_6
         public List<Edges> AddEdges(Node node, Node nodeEnd, int weigth)
         {
             
-            return node.Edges;
+            
         }
         public Node BFS(Node startNode, Node endNode)
         {
